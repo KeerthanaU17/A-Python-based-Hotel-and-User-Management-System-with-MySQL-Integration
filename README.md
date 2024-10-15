@@ -1,6 +1,7 @@
 # Hotel-Management-System
-
-This project presents a comprehensive Hotel Management System developed in Python, designed to streamline hotel operations and enhance user experience. The system incorporates object-oriented programming principles through the use of classes that handle key entities such as hotels and users. Data persistence is ensured through seamless integration with a MySQL database.
+ A Python-based Hotel and User Management System with MySQL Integration
+# Description
+  This project presents a comprehensive Hotel Management System developed in Python, designed to streamline hotel operations and enhance user experience. The system incorporates object-oriented programming principles through the use of classes that handle key entities such as hotels and users. Data persistence is ensured through seamless integration with a MySQL database.
 
 # Key Features:
 # Hotel Sorting:
